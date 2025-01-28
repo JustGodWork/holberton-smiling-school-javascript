@@ -72,6 +72,16 @@ The Holberton Smiling School web pages were developed by sections using the Boot
 
 [Footer](https://github.com/jzamora5/holberton-smiling-school/blob/master/courses.html)
 
-# Author:
+## Responsive Design
 
-Jhoan Zamora: [jzamora5](https://github.com/jzamora5)
+- Web pages switch to the tablet version when the screen width is 768px.
+- Web pages switch to the mobile version when the screen width is 576px.
+
+## Button Styles
+
+- Buttons have an opacity of 0.9 on hover and active states.
+
+# Authors:
+
+Jhoan Zamora: [jzamora5](https://github.com/jzamora5) (Original repository)
+JustGodWork: [JustGodWork](https://github.com/JustGodWork)
