@@ -900,3 +900,17 @@
     width: 90vw;
   }
 }
+
+/* Tablet version */
+@media (max-width: 768px) {
+}
+
+/* Mobile version */
+@media (max-width: 576px) {
+}
+
+/* Button hover/active styles */
+button:hover,
+button:active {
+    opacity: 0.9;
+}
